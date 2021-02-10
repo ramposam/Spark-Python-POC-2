@@ -1,0 +1,4 @@
+Spark is a processing framework
+Mr is also a processing framework
+Spark is faster than mr because spark uses a different engine
+currently industry is using spark than mapreduce
